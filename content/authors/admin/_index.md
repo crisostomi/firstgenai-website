@@ -27,14 +27,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-    label: Follow me on Twitter
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/
+  #   label: Follow me on Twitter
 
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
 
 
 # Highlight the author in author lists? (true/false)
